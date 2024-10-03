@@ -1,0 +1,40 @@
+/* Flex */
+.flex {
+	display: flex;
+}
+
+.flex-wrap {
+	flex-wrap: wrap;
+}
+
+.flex-item-1 {
+	flex: 1;
+}
+
+/* Flex Item */
+.item {
+	margin: 5px;
+	background: #00008B;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid rgb(78, 78, 78);
+}
+
+h1 {
+	text-align: center;
+	margin: 20px 0 0 0;
+	font-size: 1.25em;
+	font-weight: normal;
+    color: #00008B;
+}
+
+body {
+    background-color: aliceblue;
+	font-family: monospace;
+	color: aliceblue;
+}
